@@ -1,5 +1,5 @@
 # 💫 About Me:[[Portfolio](https://karmukilan-dev.vercel.app/)]
-🔭 I’m currently Studying B.E Cse-Iot<br>👯 I’m looking to collaborate on Tech-Companies<br>🤝 I’m looking for help with Internship<br>🌱 I’m currently learning AI-Automations<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently Studying B.E CSE-IoT<br>👯 I’m looking to collaborate on Tech-Companies<br>🤝 I’m looking for help with Internship<br>🌱 I’m currently learning AI-Automations<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
