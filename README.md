@@ -10,7 +10,7 @@
 <p style="font-size: 18px; color: #333; line-height: 1.6;">Full-Stack Developer | MERN Stack Enthusiast | Building Digital Solutions with Heart & Code. 💡</p>
 
 <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="22%"> 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZtMDNxbnZ6amEwdmNyeWNqZTNiaWk4dXBtZWswb2o5azE1dzB3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yo3TC0yeHD53mJ5553/giphy.gif" width="45%">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZtMDNxbnZ6amEwdmNyeWNqZTNiaWk4dXBtZWswb2o5azE1dzB3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yo3TC0yeHD53mJ5553/giphy.gif" width="45%">
 <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="22%">
 
 </div>
