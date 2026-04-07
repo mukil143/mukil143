@@ -1,24 +1,89 @@
-# 💫 About Me:[[Portfolio](https://karmukilandev.vercel.app/)]
-🔭 I’m currently Studying B.E CSE-IoT<br>👯 I’m looking to collaborate on Tech-Companies<br>🤝 I’m looking for help with Internship<br>🌱 I’m currently learning AI-Automations<br>💬 Ask me about<br>⚡ Fun fact
+<p align="center">
+  <a href="https://github.com/mukil143">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Gemstones&size=30&pause=1000&color=4B0082&background=FF2CE500&center=true&width=800&lines=%22Greetings%2C+fellow+coders!+%F0%9F%91%8B%22;%22I'm+Karmukilan%2C+a+Full-Stack+Dev..%F0%9F%92%BB%E2%9C%A8%22;%22Crafting+SaaS+Magic+with+MERN+Stack..%E2%9C%A8%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F%22;%22Solving+Logic+one+LeetCode+at+a+time..%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%A7%A9%22" alt="Typing SVG" />
+  </a>
+</p>
 
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karmukilan-a-5217b72a3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Karmukilan.dev@gmail.com) 
+<h2 style="font-family: 'Orbitron', sans-serif; color: #4B0082; font-weight: bold;">Hey there! I'm Karmukilan 🚀✨</h2>
+<p style="font-size: 18px; color: #333; line-height: 1.6;">Full-Stack Developer | MERN Stack Enthusiast | Building Digital Solutions with Heart & Code. 💡</p>
 
-# 💻 Tech Stack:
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mukil143&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mukil143&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mukil143&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="22%"> 
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxlemx0cmV2b2Y1azVqczQ4cmRsd3NmeHZoNXU5Mno5MW9qdzczYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="45%">
+<img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="22%">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mukil143&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mukil143&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 About Me
+🌱 **Learning:** Deep diving into Advanced DSA and optimizing Backend architectures.  
+💻 **Working on:** An Email SaaS platform similar to Resend using Node.js and Prisma.  
+✨ **Philosophy:** I see code as poetry and debugging as a high-stakes adventure.  
+🎯 **Goals:** To craft high-performance applications and scale digital products.  
+🎮 **Fun Fact:** When I'm not coding, you'll probably find me in a Free Fire match!
+
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+</p>
+
+# 💻 Tech Stack:
+
+<div align="center">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxoemxwMmJ2cHhua2RrNHN2bzAyMW9panU3MWIxcnh4bjZxdnB0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/br99SojJZ5rlfSYset/giphy.gif" width="300">
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br>MongoDB</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="40"/><br>Express</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="40"/><br>React</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br>Node.js</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="40"/><br>Java</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="40"/><br>PostgreSQL</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=prisma" width="40"/><br>Prisma</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase" width="40"/><br>Firebase</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=redux" width="40"/><br>Redux</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br>Tailwind</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="40"/><br>Git</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=framer" width="40"/><br>Framer</td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+</p>
+
+# 📊 GitHub Stats:
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=mukil143&theme=rose&no-frame=false&margin-w=4)
+
+<br>
+
+![](https://github-readme-stats.vercel.app/api?username=mukil143&show_icons=true&theme=rose)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mukil143&layout=compact&theme=rose)
+
+<br>
+
+### ✍️ Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+</div>
+
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+</p>
+
+<div align="center">
+  <h3>✨ Let's collaborate and make magic happen! ✨</h3>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTd6N3QzbnRsejVmb2QwNG5udmh3cGdxNGtvZ2k5MXp3MWM5bnByNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xQQP4ahKiyuxHy/giphy.gif" width="150">
+</div>
+
+---
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=mukil143&icon=4&color=10" />
+</p>
