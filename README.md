@@ -9,9 +9,9 @@
 <h2 style="font-family: 'Orbitron', sans-serif; color: #4B0082; font-weight: bold;">Hey there! I'm Karmukilan 🚀✨</h2>
 <p style="font-size: 18px; color: #333; line-height: 1.6;">Full-Stack Developer | MERN Stack Enthusiast | Building Digital Solutions with Heart & Code. 💡</p>
 
-<img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="22%"> 
+
 <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="45%">
-<img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="22%">
+
 
 </div>
 
